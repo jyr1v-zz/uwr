@@ -14,13 +14,13 @@ Software is made with python. So install it. In addition two libs are needed fro
 
 Install both libraries and you're good to go with following command:
 
-'''sh
+'''shell
 python uwr.py
 '''
 
 If you want to create .exe binary (for windows) run:
 
-'''sh
+'''shell
 python setup.py
 '''
 
