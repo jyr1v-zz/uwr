@@ -27,7 +27,7 @@ python setup.py
 After the command you will find the uwr.exe from created "dist"-folder.
 
 ![Game](doc/game.png)
-Picture from live feed from a game in European cahmpionships.
+Picture from live feed from a game in European cahmpionships. Game time & score from software is shown with red rectangle.
 
 ![UWR spec](doc/pic.png)
 Picture about the UWR board and spec.
